@@ -1,2 +1,1 @@
-# Fasher-Bot
-This is my Slack bot
+I use this for testing
